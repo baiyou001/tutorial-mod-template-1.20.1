@@ -21,7 +21,7 @@ public class TutorialMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("HI111!");
+		LOGGER.info("aaaaa!");
 	}
 
 	public static ResourceLocation id(String path) {
